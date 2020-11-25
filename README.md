@@ -1,0 +1,2 @@
+# osx
+notes about osx
