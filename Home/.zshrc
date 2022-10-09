@@ -146,4 +146,6 @@ if [[ ! -n $TMUX ]]; then
   fi
 fi
 
-set -g default-terminal "screen-256color"
+# ワイルドカード有効化
+#https://www.logcg.com/en/archives/3505.html
+setopt nonomatch
