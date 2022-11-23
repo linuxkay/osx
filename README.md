@@ -12,6 +12,11 @@ Then run following command to make changes.
 iterm2 settings for delete key to work on vim.
 Enable Delete sends control-H option at Preferences→Advanced
 
+Fix vim delete key issue
+add following on .vimrc
+
+`noremap! <C-?> <C-h>`
+
 ## LOG
 10/9/2022
 Added OSX zshrc tmux.conf zprofile
