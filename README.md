@@ -17,6 +17,11 @@ add following on .vimrc
 
 `noremap! <C-?> <C-h>`
 
+https://qiita.com/rild/items/ccbf7c7ac9cecd1fc32d
+
 ## LOG
 10/9/2022
 Added OSX zshrc tmux.conf zprofile
+
+11/23/2022
+Added how to fix vim delete key not working issue.
